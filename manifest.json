@@ -1,0 +1,12 @@
+{
+  "name": "Toward Thematic Quran Interpretation — نحو تفسير موضوعي",
+  "short_name": "نحو تفسير موضوعي",
+  "description": "Interactive trilingual app based on Sheikh Mohammed al-Ghazali's book",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#E1F5FE",
+  "theme_color": "#0277BD",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
